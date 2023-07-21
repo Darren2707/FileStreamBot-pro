@@ -80,7 +80,7 @@
   You should make sure you have Python 3.6+ installed on your PC, then clone this repo and run the following commands in a terminal:
 
 ```py
-git clone https://github.com/adarsh-goel/filestreambot-pro
+git clone https://github.com/Darren2707/FileStreamBot-pro
 cd filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
